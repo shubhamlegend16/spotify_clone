@@ -282,5 +282,5 @@ a{
     width: 1rem;
     background-color: #1bd760;
     border-radius: 50%;
-    margin-top: -6px;
+    margin-top: -6px; /* Center the thumb */
 }
